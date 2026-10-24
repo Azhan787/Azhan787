@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A1A,25:302060,60:6E40C9,100:00C9A7&height=250&section=header&text=Muhammad%20Azhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FRONTEND%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=15" width="100%" alt="Muhammad Azhan animated profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Muhammad+Azhan;Frontend+Developer;Building+Modern+Digital+Experiences;Learning+Full+Stack+Development;Turning+Ideas+Into+Interactive+Websites" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Muhammad+Azhan;Frontend+Developer;Building+Modern+Digital+Experiences;Full+Stack+Developer;Turning+Ideas+Into+Interactive+Websites" alt="Animated developer introduction"/>
 
 <br/>
 
